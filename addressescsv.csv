@@ -1,0 +1,33 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+158.101.211.160,443,true,FRA,Europe,Frankfurt,210 ms,8227 kB/s
+130.61.23.77,443,true,FRA,Europe,Frankfurt,193 ms,6570 kB/s
+129.146.7.98,443,true,LAX,North America,Los Angeles,208 ms,5914 kB/s
+152.70.234.188,443,true,ICN,Asia Pacific,Seoul,74 ms,5147 kB/s
+158.101.175.51,443,true,FRA,Europe,Frankfurt,193 ms,4652 kB/s
+84.235.169.234,443,true,AMS,Europe,Amsterdam,202 ms,4633 kB/s
+144.24.85.158,443,true,ICN,Asia Pacific,Seoul,203 ms,4451 kB/s
+144.24.78.162,443,true,ICN,Asia Pacific,Seoul,209 ms,4438 kB/s
+158.101.175.51,443,true,FRA,Europe,Frankfurt,195 ms,4120 kB/s
+158.101.175.51,443,true,FRA,Europe,Frankfurt,192 ms,4120 kB/s
+141.144.232.159,443,true,FRA,Europe,Frankfurt,196 ms,3798 kB/s
+158.101.175.51,443,true,FRA,Europe,Frankfurt,194 ms,3390 kB/s
+129.146.248.140,443,true,LAX,North America,Los Angeles,235 ms,3373 kB/s
+150.136.61.148,443,true,IAD,North America,Ashburn,239 ms,3028 kB/s
+64.110.104.30,443,true,KIX,Asia Pacific,Osaka,288 ms,2939 kB/s
+168.138.46.67,443,true,KIX,Asia Pacific,Osaka,290 ms,2882 kB/s
+168.138.162.187,443,true,SIN,Asia Pacific,Singapore,332 ms,2874 kB/s
+168.138.50.249,443,true,KIX,Asia Pacific,Osaka,292 ms,2451 kB/s
+138.3.212.144,443,true,SIN,Asia Pacific,Singapore,372 ms,2219 kB/s
+138.3.212.144,443,true,SIN,Asia Pacific,Singapore,368 ms,2182 kB/s
+138.3.212.144,443,true,SIN,Asia Pacific,Singapore,375 ms,2172 kB/s
+144.24.85.158,443,true,ICN,Asia Pacific,Seoul,194 ms,2170 kB/s
+138.3.212.144,443,true,SIN,Asia Pacific,Singapore,369 ms,2151 kB/s
+138.3.212.144,443,true,SIN,Asia Pacific,Singapore,373 ms,1954 kB/s
+138.3.212.144,443,true,SIN,Asia Pacific,Singapore,372 ms,1941 kB/s
+138.3.212.144,443,true,SIN,Asia Pacific,Singapore,375 ms,1760 kB/s
+129.159.84.71,443,true,IAD,North America,Ashburn,242 ms,656 kB/s
+132.145.81.117,443,true,ICN,Asia Pacific,Seoul,70 ms,1 kB/s
+138.2.75.91,443,true,SIN,Asia Pacific,Singapore,180 ms,0 kB/s
+129.146.243.241,443,true,LAX,North America,Los Angeles,221 ms,0 kB/s
+138.3.212.144,443,true,SIN,Asia Pacific,Singapore,374 ms,0 kB/s
+168.138.201.0,443,true,NRT,Asia Pacific,Tokyo,285 ms,0 kB/s
